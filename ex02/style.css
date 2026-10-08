@@ -1,0 +1,10 @@
+body{
+    font-family: Arial,sans-serif;
+    padding: 20px;
+}
+.active{
+    color: rgb(216, 40, 131);
+    background-color: rgb(231, 163, 163);
+    padding: 10px;
+    border-radius: 5px;
+}
